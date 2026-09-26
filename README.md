@@ -55,7 +55,7 @@ I’m continuously learning, building, and exploring new ideas,with the goal of 
 
 - [Employee Management System](https://github.com/yourusername/employee-management-system) — A database-driven system for managing employee information, departments, positions, attendance, and organizational records.
 - Kondial Enterprise Website — A professional business website designed to present Kondial Enterprise’s services, identity, and digital presence.
-- [Live Demo]((https://kondial-website.vercel.app/))
+- [Live Demo](https://kondial-website.vercel.app/)
 - E-Commerce Website— A responsive and modern website
 - [Live Demo](https://github.com/yourusername/kondial-enterprise-website)
 - Personal Portfolio — A responsive website showcasing my professional profile, projects, services, writing, and digital work.
